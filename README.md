@@ -18,5 +18,5 @@ After training, the model is packed and using in the GUI of the program, the cod
 Because most of the training data the leaf is horizontal, so it can detect the horizontal leaf better. In case the leaf is vertical, you can press the rotate to rotate the image to get a better prediction.
 ## Image Dataset
 Training Dataset: https://drive.google.com/file/d/1DU9G-zijQ8UJcyVffVLKWpC6qKm0k8Aj/view?usp=sharing</br>
-Testing Dataset: https://drive.google.com/file/d/1NKTjaSmyagpsA_f3Y1avF0T7mzU5Qbnp/view?usp=sharing
+Testing Dataset: https://drive.google.com/file/d/1NKTjaSmyagpsA_f3Y1avF0T7mzU5Qbnp/view?usp=sharing</br>
 Trained Detector: https://drive.google.com/file/d/1lF2wULikxRQMuPQ7iZkExl3ELpJgy8Pk/view?usp=sharing
