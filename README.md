@@ -9,7 +9,7 @@ The performance of the trained detector is as follows:</br>
 ![trained detector performance](https://github.com/neumotngayem/Leaffix/blob/main/performance.png?raw=true)</br>
 It shows that all the recall score is very low but overall precision can reach around 0.8 except the multiple disease class only able to reach 0.6. It can be described that the program does not well recognize the object but when it can recognize, it can classify the object correctly.
 ## UI
-After training, the model is packed and using in the GUI of the program, the code of it is in the UI folder.
+After training, the model is packed and using in the GUI of the program, the code of it is in the UI folder, please download the file detector_augment_150.mat and put into UI folder before run it with MATLAB App Designer.
 </br>
 ![Leaffix Main UI](https://github.com/neumotngayem/Leaffix/blob/main/mainui.png?raw=true)
 </br>
@@ -19,3 +19,4 @@ Because most of the training data the leaf is horizontal, so it can detect the h
 ## Image Dataset
 Training Dataset: https://drive.google.com/file/d/1DU9G-zijQ8UJcyVffVLKWpC6qKm0k8Aj/view?usp=sharing</br>
 Testing Dataset: https://drive.google.com/file/d/1NKTjaSmyagpsA_f3Y1avF0T7mzU5Qbnp/view?usp=sharing
+Trained Detector: https://drive.google.com/file/d/1lF2wULikxRQMuPQ7iZkExl3ELpJgy8Pk/view?usp=sharing
