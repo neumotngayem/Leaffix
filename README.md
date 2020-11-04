@@ -1,9 +1,9 @@
 # Leaffix 
 ## Introduction
-Leaffix is a program to detect 3 types of apple leaf disease: rust, scab and multiple diseases as well as healthy leaf using Yolo V2 in MATLAB.</br>
+Leaffix is a program able to detect 3 types of apple leaf disease: rust, scab and multiple diseases as well as healthy leaf using Yolo V2 in MATLAB.</br>
 The image dataset of this project is based on the Plant Pathology 2020 - FGVC7 competition available in https://www.kaggle.com/c/plant-pathology-2020-fgvc7/data.
 ## Training
-To start training and testing the files: imageLabelingSession_150.mat and imageTestingSession_30.mat is already prepared. These file are the object labeled of the leaves in 600 images for training (150 images each class) and  120 images for testing (30 images each class).</br>
+To start training and testing the files: plantTrainingData.mat and plantTestingData.mat is already prepared. These file are the object labeled of the leaves in 600 images for training (150 images each class) and  120 images for testing (30 images each class).</br>
 It is a room for improvement by continue adding more object labeled image on training, you can continue to do that by download the train labeled folder and open the imageLabelingSession_150.mat with Image Labeler app in MATLAB.
 The performance of the trained detector is as follows:</br>
 ![trained detector performance](https://github.com/neumotngayem/Leaffix/blob/main/performance.png?raw=true)</br>
